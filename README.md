@@ -22,15 +22,6 @@
 - ⚛️ Building real-world frontend projects
 - 🚀 Contributing to Open Source
 
-## 🏆 Featured Projects
-### 🔹 [🎬 YouTube Clone](#) *(React, Routing, API Integration)*
-A simplified YouTube clone with dynamic routing and API data fetching.
-
-### 🔹 [📝 Task Manager](#) *(React, Local Storage, State Management)*
-A productivity app to add, update, and track tasks efficiently.
-
-### 🔹 [📊 BMI Calculator](#) *(HTML, CSS, JavaScript)*
-A simple calculator to check Body Mass Index (BMI) based on user input.
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amit-kumar790894/)  
