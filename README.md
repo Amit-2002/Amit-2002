@@ -1,6 +1,7 @@
 # Hi there, I'm Amit Kumar! 👋
 
-![Profile Banner](https://source.unsplash.com/1600x400/?technology,developer)
+![Profile Banner](https://source.unsplash.com/1600x400/?coding,programming,web)
+
 
 ## 🚀 About Me
 - 💻 Frontend Developer | Learning React.js
