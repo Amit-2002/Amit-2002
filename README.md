@@ -37,6 +37,13 @@ A simple calculator to check Body Mass Index (BMI) based on user input.
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/amitkumar)  
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/your-profile)  
 
+<h3 align="left">🐍 Contribution Graph:</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ## 📊 GitHub Stats & Activity
 ![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitkumar&show_icons=true&theme=radical)
 
