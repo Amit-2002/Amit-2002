@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there, I'm Amit Kumar! 👋
 
-<!--
-**Amit-2002/Amit-2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://source.unsplash.com/1600x400/?technology,developer)
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Frontend Developer | Learning React.js
+- 🎓 B.Voc Graduate from Dayalbagh Educational Institute
+- 🏫 Currently learning at NavGurukul (HVA Bootcamp)
+- 🎯 Passionate about building web applications and solving real-world problems
+- 📚 Loves reading books & playing badminton in free time
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Skills
+### 💡 Core Technologies
+- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Styling:** CSS, Modular CSS
+- **Tools & Technologies:** Git, GitHub, APIs
+- **Soft Skills:** Problem-solving, Teamwork, Communication
+
+## 🌱 Current Learning & Goals
+- 🛠 Enhancing React.js skills
+- 🎨 Exploring UI/UX best practices
+- ⚛️ Building real-world frontend projects
+- 🚀 Contributing to Open Source
+
+## 🏆 Featured Projects
+### 🔹 [🎬 YouTube Clone](#) *(React, Routing, API Integration)*
+A simplified YouTube clone with dynamic routing and API data fetching.
+
+### 🔹 [📝 Task Manager](#) *(React, Local Storage, State Management)*
+A productivity app to add, update, and track tasks efficiently.
+
+### 🔹 [📊 BMI Calculator](#) *(HTML, CSS, JavaScript)*
+A simple calculator to check Body Mass Index (BMI) based on user input.
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/amitkumar)  
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/your-profile)  
+
+## 📊 GitHub Stats & Activity
+![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitkumar&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitkumar&layout=compact&theme=radical)
+
+⭐ **Feel free to check out my projects and contributions!** 🚀
+
+### 🎯 Fun Fact
+🔥 I turn coffee into code and ideas into reality! ☕💡
